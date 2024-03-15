@@ -2,7 +2,6 @@ package com.example.demo.controller;
 
 import com.example.demo.entity.Product;
 import com.example.demo.payload.NewProductPayload;
-import com.example.demo.service.ProductService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;

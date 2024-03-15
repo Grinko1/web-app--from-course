@@ -2,7 +2,6 @@ package com.example.demo.controller;
 
 import com.example.demo.entity.Product;
 import com.example.demo.payload.UpdateProductPayload;
-import com.example.demo.service.ProductService;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
